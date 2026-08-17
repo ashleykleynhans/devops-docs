@@ -1,4 +1,4 @@
-zensical==0.0.54
+zensical==0.0.55
 markdown==3.10.3
 pymdown-extensions==11.0.1
 markdown-blockdiag==0.8.0
