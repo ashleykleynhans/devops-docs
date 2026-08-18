@@ -1,6 +1,6 @@
 # Advanced Editing
 
-1.  Clone [the code](https://github.com/trapdoorcloud/devops-docs).
+1.  Clone [the code](https://github.com/ashleykleynhans/devops-docs).
 
     !!! tip
         Ensure you have uploaded your ssh pub key to [your GitHub
@@ -9,7 +9,7 @@
 
     ```bash
     mkdir -p ~/src/work/devops-docs
-    git clone git@github.com:trapdoorcloud/devops-docs.git ~/src/work/devops-docs
+    git clone git@github.com:ashleykleynhans/devops-docs.git ~/src/work/devops-docs
     cd ~/src/work/devops-docs
     ```
 
@@ -37,4 +37,4 @@
         [presetup markdown editors out there](presetup markdown editors out there).
 
 1.  Same as any code project, [submit a pull
-    request](https://github.com/trapdoorcloud/devops-docs/pulls).
+    request](https://github.com/ashleykleynhans/devops-docs/pulls).

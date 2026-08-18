@@ -19,7 +19,7 @@ get started with our ansible setup.
     ```bash
     mkdir -p ~/src/work
     cd ~/src/work/
-    git clone git@github.com:trapdoorcloud/ansible.git
+    git clone git@github.com:ashleykleynhans/ansible.git
     cd ~/src/work/ansible
     ```
 

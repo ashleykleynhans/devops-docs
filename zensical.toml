@@ -2,7 +2,7 @@
 site_name = "DevOps Documentation"
 site_url = "https://docs.trapdoor.cloud/"
 site_author = "Ashley Kleynhans & DevOps Team"
-repo_url = "https://github.com/trapdoorcloud/devops-docs"
+repo_url = "https://github.com/ashleykleynhans/devops-docs"
 edit_uri = "edit/main/docs/"
 site_description = "DevOps Engineers Documentation"
 copyright = "Copyright &copy; 2026 Trapdoor.cloud DevOps team"
@@ -140,7 +140,7 @@ link = "https://docs.trapdoor.cloud/"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/trapdoorcloud/devops-docs"
+link = "https://github.com/ashleykleynhans/devops-docs"
 
 [[project.extra.social]]
 icon = "fontawesome/solid/envelope"
