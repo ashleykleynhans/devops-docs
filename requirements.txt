@@ -1,6 +1,6 @@
-zensical==0.0.71
-markdown==3.11
-pymdown-extensions==12.2
+zensical==0.0.72
+markdown==3.11.2
+pymdown-extensions==12.3
 markdown-blockdiag==0.8.0
 markdown-include==0.8.1
 mkdocs-with-pdf==0.9.3
